@@ -33,18 +33,22 @@ Answer : apple.small
 
 
 ## 7. Select the small oranges
+<img width="1562" height="1203" alt="image" src="https://github.com/user-attachments/assets/058e00a3-3bb0-4b89-83ff-0bf14b6424f3" />
 Answer : orange.small
 
 
 ## 8. Select the small oranges in the bentos
+<img width="1548" height="449" alt="image" src="https://github.com/user-attachments/assets/638e986e-e924-4a04-8e6e-538f7c41159a" />
 Answer : bento orange.small
 
 
 ## 9. Select all the plates and bentos
+<img width="1551" height="461" alt="image" src="https://github.com/user-attachments/assets/8a09c2dd-c07b-447d-9357-3880852aa4f8" />
 Answer : plate, bento
 
 
 ## 10. Select all the things!
+<img width="1549" height="459" alt="image" src="https://github.com/user-attachments/assets/7a810da9-c2db-4249-b45b-1a54d1d877fe" />
 Answer : *
 
 

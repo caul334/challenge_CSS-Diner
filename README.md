@@ -8,22 +8,27 @@ Answer : plate
 
 
 ## 2. Select the bento boxes
+<img width="1563" height="1262" alt="image" src="https://github.com/user-attachments/assets/dcc27807-568f-4ef7-b82f-a61cb1e0dfa0" />
 Answer : bento
 
 
 ## 3. Select the fancy plate
+<img width="1559" height="1248" alt="image" src="https://github.com/user-attachments/assets/7dee2a49-df82-4d44-aac1-66e8227e5edc" />
 Answer : plate#fancy
 
 
 ## 4. Select the apple on the plate
+<img width="1566" height="1200" alt="image" src="https://github.com/user-attachments/assets/b4816fb7-1429-4310-850e-080983f4036e" />
 Answer : plate apple
 
 
 ## 5. Select the pickle on the fancy plate
+<img width="1558" height="1199" alt="image" src="https://github.com/user-attachments/assets/ebc18716-f27d-463b-beae-f331ee36d478" />
 Answer : plate#fancy pickle
 
 
 ## 6. Select the small apples
+<img width="1562" height="1200" alt="image" src="https://github.com/user-attachments/assets/ecbde90b-53bf-4255-8c96-77ae5a7a9f01" />
 Answer : apple.small
 
 

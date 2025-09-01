@@ -1,4 +1,4 @@
-# challenge_CSS-Diner
+<img width="1419" height="450" alt="image" src="https://github.com/user-attachments/assets/aba0b8e4-7ae9-48b3-8041-fc574162661a" /># challenge_CSS-Diner
 Try it! https://flukeout.github.io
 
 
@@ -53,42 +53,52 @@ Answer : *
 
 
 ## 11. Select everything on a plate
+<img width="1586" height="449" alt="image" src="https://github.com/user-attachments/assets/6e0cfaf3-272c-45e6-b3e0-2cdc2e9062ef" />
 Answer : plate *
 
 
 ## 12. Select every apple that's next to a plate
+<img width="1506" height="473" alt="image" src="https://github.com/user-attachments/assets/72b170c5-2d4e-4eb1-9f60-0ed24db1fa92" />
 Answer : plate + apple
 
 
 ## 13. Select the pickles beside the bento
+<img width="1412" height="448" alt="image" src="https://github.com/user-attachments/assets/166a871b-2647-4304-a608-2b6dde68a52f" />
 Answer : bento ~ pickle
 
 
 ## 14. Select the apple directly on a plate
+<img width="1549" height="452" alt="image" src="https://github.com/user-attachments/assets/32a521d2-f508-4f01-b0e2-b820739b790a" />
 Answer : plate > apple
 
 
 ## 15. Select the top orange
+<img width="1321" height="463" alt="image" src="https://github.com/user-attachments/assets/ec8fa8e0-feaa-499d-8576-76d63749bf1c" />
 Answer : plate orange:first-child
 
 
 ## 16. Select the apple and the pickle on the plates
+<img width="1493" height="449" alt="image" src="https://github.com/user-attachments/assets/27a7382a-c02b-428e-84bf-6a4c9a655ad4" />
 Answer : plate apple:only-child, plate pickle:only-child
 
 
 ## 17. Select the small apple and the pickle
+<img width="1419" height="450" alt="image" src="https://github.com/user-attachments/assets/76b09b4f-623f-4d8a-8388-66bfe1c9cf64" />
 Answer : plate apple, pickle:last-child
 
 
 ## 18. Select the 3rd plate
+<img width="1257" height="444" alt="image" src="https://github.com/user-attachments/assets/51e17a6a-a2fc-46c8-ac27-7a545bf5d413" />
 Answer : plate:nth-child(3)
 
 
 ## 19. Select the 1st bento
+<img width="1325" height="460" alt="image" src="https://github.com/user-attachments/assets/80ff754e-d8a8-45d4-bac8-3a1ce64e7c4a" />
 Answer : bento:nth-last-child(3)
 
 
 ## 20. Select first apple
+<img width="1267" height="469" alt="image" src="https://github.com/user-attachments/assets/2c4b8fa0-8e04-4bbf-ab68-7d718fb2a331" />
 Answer : apple:first-of-type
 
 

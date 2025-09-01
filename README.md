@@ -1,4 +1,3 @@
-<img width="1419" height="450" alt="image" src="https://github.com/user-attachments/assets/aba0b8e4-7ae9-48b3-8041-fc574162661a" /># challenge_CSS-Diner
 Try it! https://flukeout.github.io
 
 
@@ -103,49 +102,61 @@ Answer : apple:first-of-type
 
 
 ## 21. Select all even plates
+<img width="1403" height="436" alt="image" src="https://github.com/user-attachments/assets/2d118764-8124-49b0-9f36-c8833dfe0e0d" />
 Answer : plate:nth-of-type(even)
 
 
 ## 22. Select every 2nd plate, starting from the 3rd
+<img width="1487" height="443" alt="image" src="https://github.com/user-attachments/assets/7afde101-bc82-4b83-ab51-5db09a5d5e04" />
 Answer : plate:nth-of-type(2n+3)
 
 
 ## 23. Select the apple on the middle plate
+<img width="1369" height="438" alt="image" src="https://github.com/user-attachments/assets/eed2f2c5-06ba-406b-b5df-3326d05922ee" />
 Answer : apple:only-of-type
 
 
 ## 24. Select the last apple and orange
+<img width="1247" height="440" alt="image" src="https://github.com/user-attachments/assets/216dc4b5-2cf6-424d-94ce-e2154d21dbc4" />
 Answer : .small:last-of-type
 
 
 ## 25. Select the empty bentos
+<img width="1215" height="438" alt="image" src="https://github.com/user-attachments/assets/dbf8ca2e-ba97-410e-802c-a11a64303007" />
 Answer : bento:empty
 
 
 ## 26. Select the big apples
+<img width="1194" height="447" alt="image" src="https://github.com/user-attachments/assets/5c74b2fa-8d68-49b2-a3b4-064cbb9a242d" />
 Answer : apple:not(.small)
 
 
 ## 27. Select the items for someone
+<img width="1165" height="431" alt="image" src="https://github.com/user-attachments/assets/d453eac9-f8cf-4cf8-a4e1-b85f87b8269b" />
 Answer : *[for]
 
 
 ## 28. Select the plates for someone
+<img width="1127" height="423" alt="image" src="https://github.com/user-attachments/assets/5e86d0f2-ee68-4cf7-b274-24efe295fbc0" />
 Answer : plate[for]
 
 
 ## 29. Select Vitaly's meal
+<img width="1097" height="448" alt="image" src="https://github.com/user-attachments/assets/34e74a1b-a6b4-416b-96b4-d281f42b2b84" />
 Answer : bento[for=Vitaly]
 
 
 ## 30. Select the items for names that start with 'Sa'
+<img width="1478" height="446" alt="image" src="https://github.com/user-attachments/assets/1395de83-5ad7-462b-82f6-d5e1288d7469" />
 Answer : *[for^="Sa"]
 
 
 ## 31. Select the items for names that end with 'ato'
+<img width="1433" height="443" alt="image" src="https://github.com/user-attachments/assets/73872a16-0d7b-4b6a-bd9d-f55c93bde600" />
 Answer : *[for$="ato"]
 
 
 ## 32. Select the meals for names that contain 'obb'
+<img width="1458" height="448" alt="image" src="https://github.com/user-attachments/assets/52eb7c97-d340-4e02-bd6d-ca1a03367586" />
 Answer : *[for*="obb"]
 

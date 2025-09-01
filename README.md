@@ -3,42 +3,42 @@ Try it! https://flukeout.github.io
 
 
 ## 1. Select the plates
-<img width="1730" height="1366" alt="image" src="https://github.com/user-attachments/assets/4d1f8327-d6ca-43fe-b431-1c48e324dda2" />
+<img width="2936" height="504" alt="image" src="https://github.com/user-attachments/assets/33d0d6ba-ef0d-4e30-8cee-0e5c3bd59296" />
 Answer : plate
 
 
 ## 2. Select the bento boxes
-<img width="1563" height="1262" alt="image" src="https://github.com/user-attachments/assets/dcc27807-568f-4ef7-b82f-a61cb1e0dfa0" />
+<img width="2922" height="523" alt="image" src="https://github.com/user-attachments/assets/29b4b3f0-a55a-4db3-ae61-84d2d0678fd4" />
 Answer : bento
 
 
 ## 3. Select the fancy plate
-<img width="1559" height="1248" alt="image" src="https://github.com/user-attachments/assets/7dee2a49-df82-4d44-aac1-66e8227e5edc" />
+<img width="2928" height="508" alt="image" src="https://github.com/user-attachments/assets/45819611-768c-4a6b-80b7-a0a22a646a60" />
 Answer : plate#fancy
 
 
 ## 4. Select the apple on the plate
-<img width="1566" height="1200" alt="image" src="https://github.com/user-attachments/assets/b4816fb7-1429-4310-850e-080983f4036e" />
+<img width="2921" height="461" alt="image" src="https://github.com/user-attachments/assets/9472b399-9713-4fc5-a7e4-12b570ea925f" />
 Answer : plate apple
 
 
 ## 5. Select the pickle on the fancy plate
-<img width="1558" height="1199" alt="image" src="https://github.com/user-attachments/assets/ebc18716-f27d-463b-beae-f331ee36d478" />
+<img width="2927" height="485" alt="image" src="https://github.com/user-attachments/assets/e76b09f2-f698-4a09-b71b-0186c2bf8636" />
 Answer : plate#fancy pickle
 
 
 ## 6. Select the small apples
-<img width="1562" height="1200" alt="image" src="https://github.com/user-attachments/assets/ecbde90b-53bf-4255-8c96-77ae5a7a9f01" />
+<img width="2918" height="454" alt="image" src="https://github.com/user-attachments/assets/e0682ced-6697-4371-b0be-7893608ba710" />
 Answer : apple.small
 
 
 ## 7. Select the small oranges
-<img width="1562" height="1203" alt="image" src="https://github.com/user-attachments/assets/058e00a3-3bb0-4b89-83ff-0bf14b6424f3" />
+<img width="2925" height="463" alt="image" src="https://github.com/user-attachments/assets/23d0b708-d585-4e88-9337-d41691c259d4" />
 Answer : orange.small
 
 
 ## 8. Select the small oranges in the bentos
-<img width="1548" height="449" alt="image" src="https://github.com/user-attachments/assets/638e986e-e924-4a04-8e6e-538f7c41159a" />
+<img width="2895" height="454" alt="image" src="https://github.com/user-attachments/assets/8b064ddd-b07f-4381-9413-fe72bdeaf08d" />
 Answer : bento orange.small
 
 
